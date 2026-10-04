@@ -1,4 +1,3 @@
-// Імпортуємо наші компоненти
 import Header from './components/Header';
 import Skills from './components/Skills';
 
