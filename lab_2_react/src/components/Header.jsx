@@ -1,4 +1,3 @@
-// src/components/Header.jsx
 function Header() {
     return (
         <header>
@@ -8,5 +7,4 @@ function Header() {
     );
 }
 
-// Експортуємо компонент, щоб його можна було використати в інших файлах
 export default Header;

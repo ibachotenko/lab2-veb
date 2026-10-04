@@ -1,4 +1,3 @@
-// src/components/Skills.jsx
 function Skills() {
     return (
         <section>
