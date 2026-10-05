@@ -2,7 +2,8 @@ function Header() {
     return (
         <header>
             <h1>Nazar Glod</h1>
-            <p>Студент спеціальності "Кібербезпека"</p>
+            <p>Email: nazarglod@example.com</p>
+            <p>GitHub:https://github.com/ibachotenko</p>
         </header>
     );
 }
